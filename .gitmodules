@@ -1,0 +1,4 @@
+[submodule "info-components.git"]
+	path = info-components
+	branch=main
+	url = https://github.com/mjcasper/info-components.git
