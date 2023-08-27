@@ -8,39 +8,35 @@ Below are the lecture note PDF files that you need to print out and bring with y
 
 
 
-:::{card} Notes - Functions (F) {octicon}`download;1.5em;sd-text`
-:link: https://buffalo.box.com/s/g1kh0l81gmu40h2x10j0w7iekelky4yw
+:::{card} Chapter 12 Notes {octicon}`download;1.5em;sd-text`
+:link: https://buffalo.box.com/s/uq0xp6lyz9seayo45afnaq06w4645k2t
 
 :::
 
 
-:::{card} Notes - Limits (L) {octicon}`download;1.5em;sd-text`
-:link: https://buffalo.box.com/s/mdbi612kh4xjh0czqim7qa0r8evieot8
+:::{card} Chapter 13 Notes {octicon}`download;1.5em;sd-text`
+:link: https://buffalo.box.com/s/tx3oa2n0xx2lkrts3ubskmp36wrj5er3
 
 :::
 
-:::{card} Notes - Derivatives (D) {octicon}`download;1.5em;sd-text`
-:link: https://buffalo.box.com/s/6m6204fwkncgbxfavxyuiupleytchihu
-
-:::
-
-
-:::{card} Notes - Optimization (O) {octicon}`download;1.5em;sd-text`
-:link: https://buffalo.box.com/s/0t5g8anm0c3io01zz8do9ubtef5rzhoz
+:::{card} Chapter 14 Notes {octicon}`download;1.5em;sd-text`
+:link: https://buffalo.box.com/s/hbzpxbtbau8v4em836xe3nciuvpp8pgr
 
 :::
 
 
-:::{card} Notes - Integration (I) {octicon}`download;1.5em;sd-text`
-:link: https://buffalo.box.com/s/4coddzmmsmtzdfse2sufig3170rxbdjw
+:::{card} Chapter 15 Notes {octicon}`download;1.5em;sd-text`
+:link: https://buffalo.box.com/s/la3z16pk46ik5q11pmrv6vion8ji1dpq
 
 :::
 
 
-:::{card} Notes - Applications of Integration (AI) {octicon}`download;1.5em;sd-text`
-:link: https://buffalo.box.com/s/j7ve3z6e1mmizw2dar4o1nszc38m7l4x
+:::{card} Chapter 16 Notes {octicon}`download;1.5em;sd-text`
+:link: https://buffalo.box.com/s/iso6qywge66y77g2kdlidnt3ft78xode
 
 :::
+
+
 
 
 

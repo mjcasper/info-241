@@ -1,11 +1,11 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: MTH 131 Fall 2023
+title: MTH 241 Fall 2023
 author: Michael Casper
 logo: logo.png
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the course information for MTH 131 in the Fall 2023 semester with Prof. Casper.
+  This is the course information for MTH 241 in the Fall 2023 semester with Prof. Casper.
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -19,7 +19,7 @@ latex:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/mjcasper/info-131.git # Online location of your book
+  url: https://github.com/mjcasper/info-241.git # Online location of your book
   path_to_book: docs  # Optional path to your book, relative to the repository root
   branch: master  # Which branch of the repository should be used when creating links (optional)
 
@@ -31,7 +31,7 @@ html:
   use_edit_page_button: false
   home_page_in_navbar: false
   favicon: favicon.png
-  extra_navbar: Questions? <br> Ask Prof. Casper at <a href='https://info-131.bluetangent.org/start/office-hours.html'>Office Hours</a>
+  extra_navbar: Questions? <br> Ask Prof. Casper at <a href='https://info-241.bluetangent.org/start/office-hours.html'>Office Hours</a>
 
 parse:
   myst_extended_syntax:  # More latex environments

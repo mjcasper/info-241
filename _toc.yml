@@ -22,16 +22,10 @@ parts:
       sections:
       - url: https://www.buffalo.edu/cas/math/ug/help-center.html
         title: Math Help Center
-      - url: https://arts-sciences.buffalo.edu/ulc/math-place.html
-        title: ULC Math Place
-      - url: https://www.buffalo.edu/studentsuccess/tutoring.html
-        title: Student Success Gateway
     - file: review/index
       sections:
-      - file: review/1-chapter
-      - file: review/2-chapter
-      - file: review/3-chapter
-      - file: review/4-chapter
-      - file: review/5-chapter
-      - file: review/6-chapter
-      - file: review/7-chapter           
+      - file: review/12-chapter
+      - file: review/13-chapter
+      - file: review/14-chapter
+      - file: review/15-chapter
+      - file: review/16-chapter           
