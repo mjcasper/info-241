@@ -13,7 +13,7 @@ No preparation problems assigned for today.
 ```
 
 ```{dropdown} Day 1B: Wednesday, August 30th
-Problems will be posted after Monday's class
+Sketch the graph of the surface in $\mathbf{R}^3$ given by the equation $x=3$. On this graph, plot the points $(3,2,3)$ and $(3,2,-2)$
 
 ```
 
