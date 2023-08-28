@@ -419,7 +419,8 @@ Calculate your Final Average
 #### 5.5.1. Calculator and Resource Policy
 
 ```{include} ../info-components/05-calculator-policy.md
-:start-after: ALLOW
+:start-after: NONE
+:end-before: ALLOW
 ```
 
 
