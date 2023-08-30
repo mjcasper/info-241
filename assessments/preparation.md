@@ -18,6 +18,10 @@ Sketch the graph of the surface in $\mathbf{R}^3$ given by the equation $x=3$. O
 ```
 
 ```{dropdown} Day 1C: Friday, September 1st
-Problems will be posted after Wednesday's class
+1. Calculate the dot product $\vec{a} \cdot \vec{b}$ of the following vectors: $ \vec{a}=\langle 2, -3 \rangle \qquad \vec{b} = \langle 0, 4 \rangle $
+
+1. Calculate the dot product $\vec{a} \cdot \vec{b}$ of the following vectors: $ \vec{a}=\langle 1, 9, 3 \rangle \qquad \vec{b} = \langle -4, 2, 3 \rangle $
+
+- Show all work for these problems, do not just write the answer.
 
 ```
