@@ -24,130 +24,37 @@ Office Hours
 
 ## Teaching Assistants
 
-Coming soon
-
-<!--
-
-### Section C
 
 ::::{grid}
 :gutter: 2
 
-:::{grid-item-card} TA Lucas Kruse
+:::{grid-item-card} TA Bratati Som
 
-{octicon}`mail;1em;sd-text` Email: lucaskru@buffalo.edu
+- Sections: G1, F2, and F3
 
-{octicon}`clock;1em;sd-text` Office Hours:  Wed, Fri 3-4pm
+{octicon}`mail;1em;sd-text` Email: bratatis@buffalo.edu
 
-
-{octicon}`organization;1em;sd-text` Location: Math 136
-:::
-
-
-:::{grid-item-card} TA Arya Vadnere
-
-{octicon}`mail;1em;sd-text` Email: aryaabhi@buffalo.edu
-
-{octicon}`clock;1em;sd-text` Office Hours:  Thurs 10am-12pm
+{octicon}`clock;1em;sd-text` Office Hours:  Tues 1-2pm, Thurs 10-11am
 
 
 {octicon}`organization;1em;sd-text` Location: Math 132
 :::
 
 
-::::
+:::{grid-item-card} TA Carolyn Engelhardt
 
+- Sections: F1, G2, and G3
 
-### Section D
+{octicon}`mail;1em;sd-text` Email: cengelha@buffalo.edu
 
-::::{grid}
-:gutter: 2
+{octicon}`clock;1em;sd-text` Office Hours:  Fri 9-11am
 
-:::{grid-item-card} TA Kevin Nguyen
-
-{octicon}`mail;1em;sd-text` Email: kn58@buffalo.edu
-
-
-{octicon}`clock;1em;sd-text` Office Hours:  Wed 2-3pm, Thurs 12:30-1:30pm
-
-
-{octicon}`organization;1em;sd-text` Location: Math 136
-:::
-
-
-:::{grid-item-card} TA Jun Peng
-
-{octicon}`mail;1em;sd-text` Email: jpeng3@buffalo.edu
-
-{octicon}`clock;1em;sd-text` Office Hours:  Wed 3-4pm, Fri 1-2pm
-
-
-{octicon}`organization;1em;sd-text` Location: Math 139
+{octicon}`organization;1em;sd-text` Location: Math 129
 :::
 
 
 ::::
 
-
-### Section G 
-
-::::{grid}
-:gutter: 2
-
-:::{grid-item-card} TA Seth Hovland
-
-{octicon}`mail;1em;sd-text` Email: sethhovl@buffalo.edu
-
-{octicon}`clock;1em;sd-text` Office Hours:  Mon, Wed 1-2pm
-
-
-{octicon}`organization;1em;sd-text` Location: Math 130
-:::
-
-
-:::{grid-item-card} TA Laney Wieclaw
-
-{octicon}`mail;1em;sd-text` Email: laneywie@buffalo.edu
-
-{octicon}`clock;1em;sd-text` Office Hours:  Tues 3:30-5:30pm
-
-
-{octicon}`organization;1em;sd-text` Location: Math 136
-:::
-
-
-::::
-
-### Section H
-
-::::{grid}
-:gutter: 2
-
-:::{grid-item-card} TA Kevin Euscher
-
-{octicon}`mail;1em;sd-text` Email: kevineus@buffalo.edu
-
-{octicon}`clock;1em;sd-text` Office Hours:  Mon, Wed 2-3pm
-
-
-{octicon}`organization;1em;sd-text` Location: Math 136
-:::
-
-
-:::{grid-item-card} TA Deepisha Solanki
-
-{octicon}`mail;1em;sd-text` Email: deepisha@buffalo.edu
-
-{octicon}`clock;1em;sd-text` Office Hours:  Tues 10am-12pm
-
-
-{octicon}`organization;1em;sd-text` Location: Math 140
-:::
-
-
-::::
-
--->
 
 
 
