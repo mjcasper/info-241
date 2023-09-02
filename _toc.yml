@@ -15,6 +15,7 @@ parts:
     chapters: 
     - file: week/index
     - file: week/1
+    - file: week/2
   - caption: Help + Support
     chapters:
     - file: start/office-hours
