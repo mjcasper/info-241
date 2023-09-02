@@ -53,7 +53,7 @@ Weekly Calendar
 - **Midterm Exam 1:** Friday, September 29th, during our scheduled lecture time.
 - **Midterm Exam 2:** Friday, October 27th, during our scheduled lecture time.
 - **Midterm Exam 3:** Friday, December 1st, during our scheduled lecture time.
-- **Final Exam:** Friday, December 15th, at 8:30-10:30am ET.
+- **Final Exam:** Wednesday, December 13th, at 3:30-6:30pm ET.
 
 
 ```{admonition} Tentative Pacing
