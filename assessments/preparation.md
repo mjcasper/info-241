@@ -5,6 +5,28 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+
+## Week 2
+
+```{dropdown} Day 2A: Monday, September 4th
+No preparation problems assigned for today.
+
+```
+
+```{dropdown} Day 2B: Wednesday, September 6th
+1. Calculate the cross product $\vec{a} \times \vec{b}$ of the following vectors: $ \vec{a}=\langle 2, 0, 1 \rangle \qquad \vec{b} = \langle 0, 2, 2 \rangle $
+
+1. Find a unit vector orthogonal to both of the following vectors: $ \vec{a}=\langle 1, 0, 3 \rangle \qquad \vec{b} = \langle -1, 2, 1 \rangle $
+
+```
+
+```{dropdown} Day 3C: Friday, September 8th
+Preparation problems will be assigned after Wednesday's class.
+
+```
+
+
+
 ## Week 1
 
 ```{dropdown} Day 1A: Monday, August 28th
