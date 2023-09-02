@@ -140,7 +140,7 @@ The course calendar is listed on the [Weekly Calendar section](week/index) of ou
 ---
 
 - **Homework** assignments due every Wednesday at 11:59pm ET on WeBWorK.
-- **Homework Notebooks** due every Wednesday at 11:59pm ET on Gradescope.
+- **Homework Notebooks** due every Wednesday at 11:59pm ET on UB Learns.
 - **Checkpoint Exams** will be given during most recitations.
 
 ---
