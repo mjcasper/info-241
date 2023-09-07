@@ -21,7 +21,7 @@ No preparation problems assigned for today.
 ```
 
 ```{dropdown} Day 3C: Friday, September 8th
-Preparation problems will be assigned after Wednesday's class.
+Find parametric and symmetric equations for the line that passes through the points $A(0,4,5)$ and $B(-2,1,-1)$ 
 
 ```
 
