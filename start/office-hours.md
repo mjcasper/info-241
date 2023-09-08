@@ -34,7 +34,7 @@ Office Hours
 
 {octicon}`mail;1em;sd-text` Email: bratatis@buffalo.edu
 
-{octicon}`clock;1em;sd-text` Office Hours:  Tues 1-2pm, Thurs 10-11am
+{octicon}`clock;1em;sd-text` Office Hours:  Tues 1-2pm, Wed 10-11am
 
 
 {octicon}`organization;1em;sd-text` Location: Math 132
