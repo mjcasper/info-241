@@ -9,7 +9,7 @@ Homework
 | Sept 13th at 11:59pm ET | [V3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_V3) | #4 and 5 with explanations, #8 Also draw all vectors  |
 | Sept 13th at 11:59pm ET | [V4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_V4) | #3 and 4   |
 | Sept 13th at 11:59pm ET | [V5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_V5) | #3, 6 and 7   |
-
+| Sept 20th at 11:59pm ET | V6 - Learning Outcome | coming soon  |
 
 ```{admonition} Homework Notebook
 :class: tip 

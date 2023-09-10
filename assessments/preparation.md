@@ -6,6 +6,24 @@ Complete all preparation problems before class time on the scheduled date.
 
 
 
+## Week 3
+
+```{dropdown} Day 3A: Monday, September 11th
+**V6:** Find a linear equation for the plane that passes through the points $P(2,0,1)$, $Q(0,1,3)$, $R(1,2,0)$.
+
+```
+
+```{dropdown} Day 3B: Wednesday, September 13th
+Will be posted after Monday's class.
+
+```
+
+```{dropdown} Day 3C: Friday, September 15th
+Will be posted after Wednesday's class.
+
+```
+
+
 ## Week 2
 
 ```{dropdown} Day 2A: Monday, September 4th
@@ -14,14 +32,14 @@ No preparation problems assigned for today.
 ```
 
 ```{dropdown} Day 2B: Wednesday, September 6th
-1. Calculate the cross product $\vec{a} \times \vec{b}$ of the following vectors: $ \vec{a}=\langle 2, 0, 1 \rangle \qquad \vec{b} = \langle 0, 2, 2 \rangle $
+1. **V4:**  Calculate the cross product $\vec{a} \times \vec{b}$ of the following vectors: $ \vec{a}=\langle 2, 0, 1 \rangle \qquad \vec{b} = \langle 0, 2, 2 \rangle $
 
-1. Find a unit vector orthogonal to both of the following vectors: $ \vec{a}=\langle 1, 0, 3 \rangle \qquad \vec{b} = \langle -1, 2, 1 \rangle $
+1. **V4:** Find a unit vector orthogonal to both of the following vectors: $ \vec{a}=\langle 1, 0, 3 \rangle \qquad \vec{b} = \langle -1, 2, 1 \rangle $
 
 ```
 
-```{dropdown} Day 3C: Friday, September 8th
-Find parametric and symmetric equations for the line that passes through the points $A(0,4,5)$ and $B(-2,1,-1)$ 
+```{dropdown} Day 2C: Friday, September 8th
+**V5:**  Find parametric and symmetric equations for the line that passes through the points $A(0,4,5)$ and $B(-2,1,-1)$ 
 
 ```
 
@@ -40,9 +58,9 @@ Sketch the graph of the surface in $\mathbf{R}^3$ given by the equation $x=3$. O
 ```
 
 ```{dropdown} Day 1C: Friday, September 1st
-1. Calculate the dot product $\vec{a} \cdot \vec{b}$ of the following vectors: $ \vec{a}=\langle 2, -3 \rangle \qquad \vec{b} = \langle 0, 4 \rangle $
+1. **V3:** Calculate the dot product $\vec{a} \cdot \vec{b}$ of the following vectors: $ \vec{a}=\langle 2, -3 \rangle \qquad \vec{b} = \langle 0, 4 \rangle $
 
-1. Calculate the dot product $\vec{a} \cdot \vec{b}$ of the following vectors: $ \vec{a}=\langle 1, 9, 3 \rangle \qquad \vec{b} = \langle -4, 2, 3 \rangle $
+1. **V3:** Calculate the dot product $\vec{a} \cdot \vec{b}$ of the following vectors: $ \vec{a}=\langle 1, 9, 3 \rangle \qquad \vec{b} = \langle -4, 2, 3 \rangle $
 
 - Show all work for these problems, do not just write the answer.
 
