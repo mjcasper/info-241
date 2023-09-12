@@ -14,7 +14,9 @@ Complete all preparation problems before class time on the scheduled date.
 ```
 
 ```{dropdown} Day 3B: Wednesday, September 13th
-Will be posted after Monday's class.
+1. Find the domain of the vector function $\vec{r}(t)= \langle \sqrt{1-t^2}, t^2, \ln(t) \rangle$.
+
+2. Find the parametric equations for the line of intersection between the planes $2x-y+3z=5$ and $x+y-2z = 8$. (We did an example of this during class on Monday.)
 
 ```
 
