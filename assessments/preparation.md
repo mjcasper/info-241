@@ -21,7 +21,13 @@ Complete all preparation problems before class time on the scheduled date.
 ```
 
 ```{dropdown} Day 3C: Friday, September 15th
-Will be posted after Wednesday's class.
+Find the arc length of the section of the circular helix given by
+
+$$
+\vec{r}(t)=\langle 2\sin t, 4t, 2\cos t \rangle
+$$
+
+from the point $(0,0,2)$ to the point $(2,2\pi,0)$.
 
 ```
 
