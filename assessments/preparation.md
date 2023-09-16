@@ -5,6 +5,27 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+## Week 4
+
+```{dropdown} Day 4A: Monday, September 18th
+No problem assigned for today.
+
+```
+
+
+
+```{dropdown} Day 4B: Wednesday, September 20th
+Will be posted after Monday's class.
+
+```
+
+```{dropdown} Day 4C: Friday, September 22nd
+Will be posted after Wednesday's class.
+
+```
+
+
+
 
 ## Week 3
 
