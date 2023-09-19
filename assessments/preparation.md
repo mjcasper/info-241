@@ -15,7 +15,13 @@ No problem assigned for today.
 
 
 ```{dropdown} Day 4B: Wednesday, September 20th
-Will be posted after Monday's class.
+Calculate the TNB-frame for the following curve:
+
+$$
+\vec{r}(t)=\langle 2+3\sin t,5,4+3\cos t \rangle
+$$
+
+
 
 ```
 

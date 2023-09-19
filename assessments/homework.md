@@ -12,7 +12,7 @@ Homework
 | Sept 20th at 11:59pm ET | [V6 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_V6) |  #3, 4, and 6  |
 | Sept 20th at 11:59pm ET | [VVF1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VVF1) |  #4 and 5  |
 | Sept 20th at 11:59pm ET | [VVF2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VVF2) |  #7, 8, and 9  |
-
+| Sept 27th at 11:59pm ET | [VVF3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VVF3) |  #3 and 4  |
 
 ```{admonition} Homework Notebook
 :class: tip 
