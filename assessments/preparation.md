@@ -26,7 +26,11 @@ $$
 ```
 
 ```{dropdown} Day 4C: Friday, September 22nd
-Will be posted after Wednesday's class.
+A moving particle starts at an initial position $\vec{r}(0)=\lange 3,2,1\rangle$ and initial velocity $\vec{v}(0)=\langle 0,1,-2\rangle$. Find the position function $\vec{r}(t)$ given the acceleration:
+
+$$
+\vec{a}(t)=\langle 6e^t, 2\cos t , 4t \rangle
+$$
 
 ```
 
