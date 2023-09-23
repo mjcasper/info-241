@@ -5,6 +5,32 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+
+## Week 5
+
+```{dropdown} Day 5A: Monday, September 25th
+Find and sketch the domain of the following functions:
+
+1. $f(x,y)=\sqrt{y-3x}$
+
+2. $g(x,y)=\dfrac{5}{y-x^2}$
+
+```
+
+
+```{dropdown} Day 5B: Wednesday, September 27th
+Organize and bring all of your completed notes, problems, and papers with you to class.
+
+```
+
+```{dropdown} Day 5C: Friday, September 29th
+Study for Midterm Exam 1
+
+```
+
+
+
+
 ## Week 4
 
 ```{dropdown} Day 4A: Monday, September 18th

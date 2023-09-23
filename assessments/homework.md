@@ -14,6 +14,8 @@ Homework
 | Sept 20th at 11:59pm ET | [VVF2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VVF2) |  #7, 8, and 9  |
 | Sept 27th at 11:59pm ET | [VVF3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VVF3) |  #3 and 4  |
 | Sept 27th at 11:59pm ET | [VVF4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VVF4) |  #2, 3, and 4  |
+| Sept 27th at 11:59pm ET | [VVF5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VVF5) |  #2 and 3  |
+| Sept 27th at 11:59pm ET | [VVF6 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VVF6) |  #3, 5, and 6  |
 
 ```{admonition} Homework Notebook
 :class: tip 

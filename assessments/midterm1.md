@@ -4,30 +4,29 @@ Midterm Exam 1
 
 ## Logistics
 
-> **Date:** Friday, March 3rd 2023
+> **Date:** Friday, September 29th 2023
 >
 > **Time:** during our regular lecture time.
 >
-> **Location:** during our regular lecture room.
+> **Location:** at our regular lecture room.
 
 - **Student ID:** Bring either your UB Student ID or government issued ID.
 
  - **Calculator Policy:** Calculators are NOT allowed. _The exam questions are written so that a calculator is not needed._
 
 - **References/resources policy:** No outside references/resources allowed during the exam.  The only references/resources allowed during the exam are those provided as part of the exam packet. 
-    - No reference page will be provided.  However, the **limit definition of the derivative (TL7)** formula will be provided.
+    - No reference page will be provided.  A list will be provided on Monday, September 25th of the formula you should have memorized for the exam.
 
 ---
 
 
 ## What to Study
 
-- **Topics:** learning outcomes TL1-TL8, BD1-BD5, DG1. (Chapter 1 and Section 2.1) 
+- **Topics:** learning outcomes V1-V6 and VVF1-VVF6
 
-- **Number of Questions:** 14 problems.
+- **Number of Questions:** 12 problems.
     - These will be similar in format to the Checkpoint Exam questions.
     - There will be one question per learning outcome (just like the Checkpoint Exams).
-    - For topics BD3-BD5, and DG1 you should really practice the homework problems.
 
 - **Simplifying:** Unless otherwise stated on the exam, you do not need to simplify your answers.
 

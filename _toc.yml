@@ -11,6 +11,7 @@ parts:
     chapters: 
     - file: assessments/preparation
     - file: assessments/homework
+    - file: assessments/midterm1
   - caption: Weekly Calendar
     chapters: 
     - file: week/index
@@ -18,6 +19,7 @@ parts:
     - file: week/2
     - file: week/3
     - file: week/4
+    - file: week/5
   - caption: Help + Support
     chapters:
     - file: start/office-hours
