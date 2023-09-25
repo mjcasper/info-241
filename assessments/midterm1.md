@@ -17,6 +17,26 @@ Midterm Exam 1
 - **References/resources policy:** No outside references/resources allowed during the exam.  The only references/resources allowed during the exam are those provided as part of the exam packet. 
     - No reference page will be provided.  A list will be provided on Monday, September 25th of the formula you should have memorized for the exam.
 
+```{admonition} Formula to Memorize
+
+1. Vector Equation for Line: $\vec{r}(t)=\vec{r}_0 + t \vec{v}$
+
+1. Vector Equation for Plane: $\vec{n} \cdot \vec{r} =\vec{n} \cdot \vec{r}_0 $
+
+1. Parametric Equations for a circle of radius $r$
+1. Parametric Equations for a line segment between two points.
+
+1. Length of a Curve: $L = \displaystyle \int_{a}^{b}\bigg | \vec{r}'(t) \bigg| dt$
+
+1. Curvature: $\kappa(t)= \dfrac{|\vec{r}\, '(t)\times\vec{r}\, ''(t)||}{\vec{r}'(t)|^3}$
+
+1. Unit Tangent: $\vec{T}(t)= \dfrac{\vec{r}'(t)}{|\vec{r}'(t)|}$
+
+1. Unit Normal: $\vec{N}(t)= \dfrac{\vec{T}'(t)}{|\vec{T}'(t)|}$
+
+1. Unit Binormal: $\vec{B}(t)=\vec{T}(t)\times \vec{N}(t) $
+
+
 ---
 
 
