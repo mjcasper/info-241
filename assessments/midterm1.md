@@ -35,7 +35,7 @@ Midterm Exam 1
 1. Unit Normal: $\vec{N}(t)= \dfrac{\vec{T}'(t)}{|\vec{T}'(t)|}$
 
 1. Unit Binormal: $\vec{B}(t)=\vec{T}(t)\times \vec{N}(t) $
-
+```
 
 ---
 
