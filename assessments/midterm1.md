@@ -28,7 +28,7 @@ Midterm Exam 1
 
 1. Length of a Curve: $L = \displaystyle \int_{a}^{b}\bigg | \vec{r}'(t) \bigg| dt$
 
-1. Curvature: $\kappa(t)= \dfrac{|\vec{r}\, '(t)\times\vec{r}\, ''(t)||}{\vec{r}'(t)|^3}$
+1. Curvature: $\kappa(t)= \dfrac{|\vec{r}\, '(t)\times\vec{r}\, ''(t)|}{|\vec{r}'(t)|^3}$
 
 1. Unit Tangent: $\vec{T}(t)= \dfrac{\vec{r}'(t)}{|\vec{r}'(t)|}$
 
