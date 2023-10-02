@@ -31,7 +31,7 @@ Happy Calculus-ing!
 ## Week 6 Calendar
 
 
-```{include} week/5.md
+```{include} week/6.md
 :start-after: Calendar
 ```
 
