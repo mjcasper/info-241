@@ -16,6 +16,9 @@ Homework
 | Sept 27th at 11:59pm ET | [VVF4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VVF4) |  #2, 3, and 4  |
 | Sept 27th at 11:59pm ET | [VVF5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VVF5) |  #2 and 3  |
 | Sept 27th at 11:59pm ET | [VVF6 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VVF6) |  #3, 5, and 6  |
+| Oct 11th at 11:59pm ET | [SVF1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SVF1) |  No Notebook  |
+| Oct 11th at 11:59pm ET | [SVF2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SVF2) |  #2, 6, 7, 12. Show all derivative rules in your work.  |
+
 
 ```{admonition} Homework Notebook
 :class: tip 

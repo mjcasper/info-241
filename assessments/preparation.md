@@ -6,6 +6,29 @@ Complete all preparation problems before class time on the scheduled date.
 
 
 
+## Week 6
+
+```{dropdown} Day 6A: Monday, October 2nd
+No preparation problem assigned for today.
+
+```
+
+
+
+```{dropdown} Day 6B: Wednesday, October 4th
+Find the equation of the plane tangent to the surface $z=3x^2+4y^2$ at the point $P(1,-1,7)$.
+
+```
+
+```{dropdown} Day 6C: Friday, October 6th
+Will be posted after Wednesday's class.
+
+```
+
+
+
+
+
 ## Week 5
 
 ```{dropdown} Day 5A: Monday, September 25th
