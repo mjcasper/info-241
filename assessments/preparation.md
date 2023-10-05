@@ -21,7 +21,13 @@ Find the equation of the plane tangent to the surface $z=3x^2+4y^2$ at the point
 ```
 
 ```{dropdown} Day 6C: Friday, October 6th
-Will be posted after Wednesday's class.
+Find $\dfrac{dz}{dt}$ when $t=0$ for:
+
+$$
+z=4x^3y-2xy^3
+$$
+
+where $x=4\cos (2t)$ and $y=4 \sin (2t)$.
 
 ```
 
