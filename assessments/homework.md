@@ -10,9 +10,10 @@ Homework
 |----------|---------|----------|
 | Oct 11th at 11:59pm ET | [SVF1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SVF1) |  No Notebook  |
 | Oct 11th at 11:59pm ET | [SVF2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SVF2) |  #2, 6, 7, 12. Show all derivative rules in your work.  |
-| Oct 11th at 11:59pm ET | [SVF2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SVF3) |  #4 and 7  |
-
-
+| Oct 11th at 11:59pm ET | [SVF3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SVF3) |  #4 and 7  |
+| Oct 18th at 11:59pm ET | [SVF4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SVF4) |  #1 and 4  |
+| Oct 18th at 11:59pm ET | [SVF5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SVF5) |  #2 and 4  |
+| Oct 18th at 11:59pm ET | [SVF6 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SVF6) |  #1 and 2  |
 
 ## Retired Sets
 

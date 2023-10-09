@@ -17,7 +17,7 @@ substitutions:
   SVF3: "Tangent Plane: Find the equation of the plane tangent to a surface."
   SVF4: "Chain Rule: Compute the partial derivatives of a scalar function using chain rule."
   SVF5: "Directional Derivative: Compute the directional derivative of a scalar function."
-  SVF6: "Gradient: Compute the gradient of a scalar function."
+  SVF6: "Gradient: Compute the gradient of a scalar function and use this to maximize the directional derivative."
   O1: "Critical Points: Find all critical points of a function of two variables."
   O2: "Classifying Critical Points: Use the second derivative test to classify the critical points as a local minima, local maxima, and saddle points."
   O3: "Constrained Optimization: Use the method of Lagrange Multipliers to solve constrained optimization problems involving one constraint equation."
@@ -89,10 +89,10 @@ These are the learning outcomes we will be studying in MTH 241, organized by top
 |:-------:|------------------|-------------------|-------------|
 | SVF1 |    {{SVF1}}           | 14.1 & 14.2 | HW SVF1, Checkpoint Exam, Midterm Exam&nbsp;2, Final Exam |
 | SVF2 |    {{SVF2}}           | 14.3 | HW SVF2, Checkpoint Exam, Midterm Exam&nbsp;2, Final Exam |
-| SVF3 |    {{SVF3}}           | 14.5 | HW SVF3, Checkpoint Exam, Midterm Exam&nbsp;2, Final Exam |
-| SVF4 |    {{SVF4}}           | 14.6 | HW SVF4, Checkpoint Exam, Midterm Exam&nbsp;2, Final Exam |
+| SVF3 |    {{SVF3}}           | 14.4 | HW SVF3, Checkpoint Exam, Midterm Exam&nbsp;2, Final Exam |
+| SVF4 |    {{SVF4}}           | 14.5 | HW SVF4, Checkpoint Exam, Midterm Exam&nbsp;2, Final Exam |
 | SVF5 |    {{SVF5}}           | 14.6 | HW SVF5, Checkpoint Exam, Midterm Exam&nbsp;2, Final Exam |
-| SVF6 |    {{SVF6}}           | 14.4 & 14.6 | HW SVF6, Checkpoint Exam, Midterm Exam&nbsp;2, Final Exam |
+| SVF6 |    {{SVF6}}           | 14.6 | HW SVF6, Checkpoint Exam, Midterm Exam&nbsp;2, Final Exam |
 
 
 

@@ -28,10 +28,10 @@ Happy Calculus-ing!
 
 
 
-## Week 6 Calendar
+## Week 7 Calendar
 
 
-```{include} week/6.md
+```{include} week/7.md
 :start-after: Calendar
 ```
 

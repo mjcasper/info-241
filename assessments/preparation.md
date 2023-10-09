@@ -6,6 +6,33 @@ Complete all preparation problems before class time on the scheduled date.
 
 
 
+## Week 7
+
+```{dropdown} Day 7A: Monday, October 9th
+No preparation problem assigned for today.
+
+```
+
+
+
+```{dropdown} Day 7B: Wednesday, October 11th
+Calculate the directional derivative of $f(x,y)=5x^4-3xy^2$ where the unit vector is given by the following angles:
+
+1. $\theta = \pi$
+
+2. $\theta = \pi/4$
+
+3. $\theta = \pi/3$
+
+
+```
+
+```{dropdown} Day 7C: Friday, October 13th
+Will be posted after Wednesday's class.
+
+```
+
+
 ## Week 6
 
 ```{dropdown} Day 6A: Monday, October 2nd
