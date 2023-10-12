@@ -28,7 +28,13 @@ Calculate the directional derivative of $f(x,y)=5x^4-3xy^2$ where the unit vecto
 ```
 
 ```{dropdown} Day 7C: Friday, October 13th
-Will be posted after Wednesday's class.
+Find the critical point(s) for the following function:
+
+$$
+f(x,y)=\tfrac{1}{3}x^3 - 2x^2 + 3y^2 -12y + 9
+$$
+
+
 
 ```
 
