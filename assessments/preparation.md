@@ -5,6 +5,32 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+## Week 8
+
+```{dropdown} Day 8A: Monday, October 16th
+Find and classify the critical point(s) of the following function:
+
+$$
+f(x,y)=x^2 - 6x + y^3 -12y^2 + 9
+$$
+
+```
+
+
+
+```{dropdown} Day 8B: Wednesday, October 18th
+Posted after Monday's class.
+
+
+```
+
+```{dropdown} Day 8C: Friday, October 20th
+Posted after Wednesday's class.
+
+
+
+```
+
 
 ## Week 7
 
