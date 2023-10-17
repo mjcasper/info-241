@@ -14,10 +14,10 @@ Homework
 | Oct 18th at 11:59pm ET | [SVF4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SVF4) |  #1 and 4  |
 | Oct 18th at 11:59pm ET | [SVF5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SVF5) |  #2 and 4  |
 | Oct 18th at 11:59pm ET | [SVF6 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SVF6) |  #1 and 2  |
-<!--| Oct 25th at 11:59pm ET | [O1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_O1) |  #1 and 2  |
-| Oct 25th at 11:59pm ET | [O2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_O2) |  #1 and 2  |
+| Oct 25th at 11:59pm ET | [O1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_O1) |  #4 and 5  |
+| Oct 25th at 11:59pm ET | [O2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_O2) |  #2, 7, 8  |
 | Oct 25th at 11:59pm ET | [O3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_O3) |  #1 and 2  |
-| Oct 25th at 11:59pm ET | [O4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_O4) |  #1 and 2  |-->
+| Oct 25th at 11:59pm ET | [O4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_O4) |  #6, 7, 10  |
 
 
 ## Retired Sets
