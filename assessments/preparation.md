@@ -19,7 +19,7 @@ $$
 
 
 ```{dropdown} Day 8B: Wednesday, October 18th
-Posted after Monday's class.
+Find the extreme values of the function $f(x,y)=4x^2+y^2$ on the circle $x^2+y^2=1$.
 
 
 ```
