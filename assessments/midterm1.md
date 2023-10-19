@@ -57,7 +57,7 @@ Midterm Exam 1
 
 The more problems you do, the better prepared you will be!
 
-- **Checkpoint Exams** - If one of your questions was marked incorrect on Gradescope. Make sure you understand why. Go through your notes or the review video, find a similar example, and compare what we did there vs what you had on your exam.
+- **Checkpoint Exams** - If one of your questions was marked incorrect, make sure you understand why. Go through your notes or the review video, find a similar example, and compare what we did there vs what you had on your exam.
 
 - **Old Homework Problems** on WeBWork
 
