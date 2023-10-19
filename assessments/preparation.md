@@ -25,7 +25,11 @@ Find the extreme values of the function $f(x,y)=4x^2+y^2$ on the circle $x^2+y^2
 ```
 
 ```{dropdown} Day 8C: Friday, October 20th
-Posted after Wednesday's class.
+Calculate the iterated integral:
+
+$$
+\int_0^3 \int1_1^2 \left( 6x^2y+ 4x \right) dy dx
+$$
 
 
 
