@@ -5,6 +5,35 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+## Week 9
+
+```{dropdown} Day 9A: Monday, October 23rd
+Calculate the following double integral where $D = { (x,y) | -2\leq x \leq 2, \quad -x^2\leq y \leq x^2+1 }$
+
+$$
+\int \int_{D} \left( x^2y+3 \right)\; dA
+$$
+
+
+
+```
+
+
+
+```{dropdown} Day 9B: Wednesday, October 25th
+Will be posted after Monday's class.
+
+
+```
+
+
+```{dropdown} Day 9C: Friday, October 27th
+No prep problem for today.
+
+```
+
+
+
 ## Week 8
 
 ```{dropdown} Day 8A: Monday, October 16th

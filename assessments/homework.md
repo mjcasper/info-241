@@ -18,6 +18,8 @@ Homework
 | Oct 25th at 11:59pm ET | [O2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_O2) |  #2, 7, 8  |
 | Oct 25th at 11:59pm ET | [O3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_O3) |  #1 and 2  |
 | Oct 25th at 11:59pm ET | [O4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_O4) |  #6, 7, 10  |
+| Nov 1st at 11:59pm ET | [DI1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_DI1) | #3, 6, 13   |
+
 
 
 ## Retired Sets
