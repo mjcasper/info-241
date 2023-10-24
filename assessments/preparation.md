@@ -21,7 +21,15 @@ $$
 
 
 ```{dropdown} Day 9B: Wednesday, October 25th
-Will be posted after Monday's class.
+Describe the following regions of the $xy$-plane as a Type 1 region using two inequalities. Sketch the region.
+
+1. Region bounded between $x=0$, $x=5$, $y=4x$ and $y=1-x^2$
+
+1. Region bounded between $y=x^2+1$ and $y=5-x^2$
+
+1. Region bounded by $x^2+y^2=4$
+
+
 
 
 ```
