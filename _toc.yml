@@ -25,6 +25,7 @@ parts:
     - file: week/7
     - file: week/8
     - file: week/9
+    - file: week/10
   - caption: Help + Support
     chapters:
     - file: start/office-hours
