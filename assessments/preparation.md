@@ -17,7 +17,7 @@ No prep problem assigned for today.
 
 
 ```{dropdown} Day 10B: Wednesday, November 1st
-Find the volume of the solid bounded by the planes $y=0$, $z=0$, and the paraboloid $z=4-x^2+y^2$.
+Find the volume of the solid bounded by the planes $y=0$, $z=0$, and the paraboloid $z=4-x^2-y^2$.
 
 
 ```
