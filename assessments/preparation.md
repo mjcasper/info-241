@@ -24,7 +24,11 @@ Find the volume of the solid bounded by the planes $y=0$, $z=0$, and the parabol
 
 
 ```{dropdown} Day 10C: Friday, Novemberf 3rd
-Posted after Wednesday's class.
+Calculate the following triple integral where $B=[1,2]\times[0,4]\times[0,1]$
+
+$$
+\iiint_{B} xyz \; DV
+$$
 
 ```
 
