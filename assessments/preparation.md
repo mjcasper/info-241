@@ -5,6 +5,34 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+
+## Week 11
+
+```{dropdown} Day 11A: Monday, November 6th
+No prep problem for today.
+
+
+```
+
+
+
+```{dropdown} Day 11B: Wednesday, November 8th
+Posted after Monday's class.
+
+
+
+```
+
+
+```{dropdown} Day 11C: Friday, November 10th
+Posted after Wednesday's class.
+
+
+
+```
+
+
+
 ## Week 10
 
 ```{dropdown} Day 10A: Monday, October 30th

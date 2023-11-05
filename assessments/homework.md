@@ -21,7 +21,7 @@ Homework
 | Nov 1st at 11:59pm ET | [DI1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_DI1) | #3, 5, 6. For #6, show the integration by parts.   |
 | Nov 1st at 11:59pm ET | [DI2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_DI2) | #7, 8  |
 | Nov 8th at 11:59pm ET | [DI3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_DI3) | #5, 6, 9  |
-
+| Nov 8th at 11:59pm ET | [TI1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_TI1) | No Notebook  |
 
 
 ## Retired Sets
