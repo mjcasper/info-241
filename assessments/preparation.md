@@ -17,7 +17,12 @@ No prep problem for today.
 
 
 ```{dropdown} Day 11B: Wednesday, November 8th
-Posted after Monday's class.
+Calculate the following triple integral by converting to cylindrical coordinates:
+
+$$
+\int_{-3}^{3} \int_{-\sqrt{9-x^2}}^{\sqrt{9-x^2}} \int_{0}^{9-x^2-y^2} x^2+y^2 \; dz dy dx
+$$
+
 
 
 
