@@ -20,7 +20,7 @@ No prep problem for today.
 Calculate the following triple integral by converting to cylindrical coordinates:
 
 $$
-\int_{-3}^{3} \int_{-\sqrt{9-x^2}}^{\sqrt{9-x^2}} \int_{0}^{9-x^2-y^2} x^2+y^2 \; dz dy dx
+\int_{-3}^{3} \int_{-\sqrt{9-x^2}}^{\sqrt{9-x^2}} \int_{0}^{9-x^2-y^2} \left( x^2+y^2 \right) \; dz \; dy \; dx
 $$
 
 
