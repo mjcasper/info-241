@@ -30,8 +30,11 @@ $$
 
 
 ```{dropdown} Day 11C: Friday, November 10th
-Posted after Wednesday's class.
+Convert the following points:
 
+1. Spherical to Cartesian:  $\left( 5, \dfrac{-\pi}{2}, \dfrac{\pi}{2} \right)$
+
+2. Cartesian to Spherical:  $\left( -4, 0, 4 \right)$
 
 
 ```
