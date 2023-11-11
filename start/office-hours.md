@@ -47,7 +47,7 @@ Office Hours
 
 {octicon}`mail;1em;sd-text` Email: cengelha@buffalo.edu
 
-{octicon}`clock;1em;sd-text` Office Hours:  Fri 9-11am
+{octicon}`clock;1em;sd-text` Office Hours:  Mon 10am-12pm
 
 {octicon}`organization;1em;sd-text` Location: Math 129
 :::
