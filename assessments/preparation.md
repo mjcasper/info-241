@@ -5,6 +5,39 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+## Week 12
+
+```{dropdown} Day 12A: Monday, November 13th
+Plot the vectors for the vector plane $\langle x+2, y \rangle $ at the points listed below:
+
+1. $(0,0)$
+2. $(2,0)$
+3. $(0,2)$
+4. $(2,2)$
+
+Plot these on a single $xy$-plane. Use a straight edge to help with your sketch (neatness counts).
+
+```
+
+
+
+```{dropdown} Day 12B: Wednesday, November 15th
+Posted after Monday's class.
+
+
+
+
+```
+
+
+```{dropdown} Day 12C: Friday, November 17th
+Posted after Wednesday's class.
+
+
+```
+
+
+
 
 ## Week 11
 
@@ -59,7 +92,7 @@ Find the volume of the solid bounded by the planes $y=0$, $z=0$, and the parabol
 ```
 
 
-```{dropdown} Day 10C: Friday, Novemberf 3rd
+```{dropdown} Day 10C: Friday, November 3rd
 Calculate the following triple integral where $B=[1,2]\times[0,4]\times[0,1]$
 
 $$
