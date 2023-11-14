@@ -22,7 +22,7 @@ Plot these on a single $xy$-plane. Use a straight edge to help with your sketch 
 
 
 ```{dropdown} Day 12B: Wednesday, November 15th
-Posted after Monday's class.
+Calculate the curl and the divergence of the vector field $\vec{F}=\langle x^2, y^2, z^2 \rangle $
 
 
 

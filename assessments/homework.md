@@ -11,6 +11,8 @@ Homework
 | Nov 15th at 11:59pm ET | [TI2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_TI2) | #3, 4, 5  |
 | Nov 15th at 11:59pm ET | [TI3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_TI3) | #3, 4  |
 | Nov 15th at 11:59pm ET | [TI4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_TI4) | #5, 6, 7  |
+| Nov 29th at 11:59pm ET | [VF1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF1) | No HW Notebook  |
+| Nov 29th at 11:59pm ET | [VF2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF2) | No HW Notebook  |
 
 
 ## Retired Sets
