@@ -8,11 +8,10 @@ Homework
 
 | Due Date | WeBWorK | Notebook |
 |----------|---------|----------|
-| Nov 15th at 11:59pm ET | [TI2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_TI2) | #3, 4, 5  |
-| Nov 15th at 11:59pm ET | [TI3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_TI3) | #3, 4  |
-| Nov 15th at 11:59pm ET | [TI4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_TI4) | #5, 6, 7  |
 | Nov 29th at 11:59pm ET | [VF1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF1) | No HW Notebook  |
 | Nov 29th at 11:59pm ET | [VF2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF2) | No HW Notebook  |
+| Nov 29th at 11:59pm ET | [VF3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF3) | #3  |
+| Nov 29th at 11:59pm ET | [VF4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF4) | #3  |
 
 
 ## Retired Sets
@@ -46,6 +45,9 @@ Homework
 | Nov 1st at 11:59pm ET | [DI2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_DI2) | #7, 8  |
 | Nov 8th at 11:59pm ET | [DI3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_DI3) | #5, 6, 9  |
 | Nov 8th at 11:59pm ET | [TI1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_TI1) | No Notebook  |
+| Nov 15th at 11:59pm ET | [TI2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_TI2) | #3, 4, 5  |
+| Nov 15th at 11:59pm ET | [TI3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_TI3) | #3, 4  |
+| Nov 15th at 11:59pm ET | [TI4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_TI4) | #5, 6, 7  |
 
 
 ```{admonition} Homework Notebook
