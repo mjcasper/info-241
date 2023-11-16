@@ -31,7 +31,11 @@ Calculate the curl and the divergence of the vector field $\vec{F}=\langle x^2, 
 
 
 ```{dropdown} Day 12C: Friday, November 17th
-Posted after Wednesday's class.
+Find a potential function for the vector field:
+
+$$
+\vec{F} (x,y) = \lange x^2y, \tfrac{1}{3}x^3+4y \rangle
+$$
 
 
 ```
