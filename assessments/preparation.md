@@ -5,6 +5,40 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+
+## Week 13
+
+```{dropdown} Day 13A: Monday, November 20th
+Evaluate the following line integral where $C$ is the line segment from $(2,1)$ to $(4,-3)$
+
+$$
+\int_C 4y \; dx -2x \; dy
+$$
+
+
+
+```
+
+
+
+```{dropdown} Day 13B: Wednesday, November 22nd
+Thanksgiving Recess. No preparation for today.
+
+
+
+```
+
+
+```{dropdown} Day 13C: Friday, November 24th
+Thanksgiving Recess. No preparation for today.
+
+
+
+```
+
+
+
+
 ## Week 12
 
 ```{dropdown} Day 12A: Monday, November 13th
