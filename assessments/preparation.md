@@ -10,8 +10,8 @@ Complete all preparation problems before class time on the scheduled date.
 ```{dropdown} Day 14A: Monday, November 27th
 Evaluate the line integral where $\int_{C}\vec{F}\cdot d\vec{r}$ where:
 
-- $\vec{F}(x,y,z)=\langle -y, x \rangle
-- $C$ is the curve with parametrization $\vec{r}(t)=\langle \3\cos t, 3 \sin t \rangle $ and $0 \leq t \leq\pi$
+- $\vec{F}(x,y)=\langle -y, x \rangle $
+- $C$ is the curve with parametrization $\vec{r}(t)=\langle 3\cos t, 3 \sin t \rangle $ and $0 \leq t \leq\pi$
 
 
 ```
