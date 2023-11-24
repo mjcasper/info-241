@@ -5,6 +5,34 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+## Week 14
+
+```{dropdown} Day 14A: Monday, November 27th
+Evaluate the line integral where $\int_{C}\vec{F}\cdot d\vec{r}$ where:
+
+- $\vec{F}(x,y,z)=\langle -y, x \rangle
+- $C$ is the curve with parametrization $\vec{r}(t)=\langle \3\cos t, 3 \sin t \rangle $ and $0 \leq t \leq\pi$
+
+
+```
+
+
+
+```{dropdown} Day 14B: Wednesday, November 29th
+Posted after Monday's class.
+
+
+
+```
+
+
+```{dropdown} Day 14C: Friday, December 1st
+No prep problem for today.
+
+
+
+```
+
 
 ## Week 13
 
