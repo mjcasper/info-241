@@ -13,6 +13,7 @@ parts:
     - file: assessments/homework
     - file: assessments/midterm1
     - file: assessments/midterm2
+    - file: assessments/midterm3
   - caption: Weekly Calendar
     chapters: 
     - file: week/index
