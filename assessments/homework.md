@@ -17,6 +17,10 @@ You will be submitting your individual homework notebooks for all of VF (Vector 
 | Nov 29th at 11:59pm ET | [VF5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF5) | #1, 2  |
 | Nov 29th at 11:59pm ET | [VF6 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF6) | #2, 3  |
 | Dec 6th at 11:59pm ET | [LI1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_LI1) | #2, 3, 5  |
+| Dec 6th at 11:59pm ET | [LI2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_LI2) | #5, 6  |
+| Dec 6th at 11:59pm ET | [LI3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_LI3) | #1  |
+| Dec 6th at 11:59pm ET | [LI4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_LI4) | #1  |
+
 
 ## Retired Sets
 
