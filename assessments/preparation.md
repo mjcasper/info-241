@@ -19,8 +19,10 @@ Evaluate the line integral where $\int_{C}\vec{F}\cdot d\vec{r}$ where:
 
 
 ```{dropdown} Day 14B: Wednesday, November 29th
-Posted after Monday's class.
+Evaluate the line integral where $\int_{C}\vec{F}\cdot d\vec{r}$ where:
 
+- $\vec{F}(x,y)=\langle 2xy^2, 2x^2y \rangle $
+- $C$ is the curve with parametrization $\vec{r}(t)=\langle 3\cos t, 3 \sin t \rangle $ and $0 \leq t \leq\pi /2$
 
 
 ```
