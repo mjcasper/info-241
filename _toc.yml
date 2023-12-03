@@ -31,6 +31,7 @@ parts:
     - file: week/12
     - file: week/13
     - file: week/14
+    - file: week/15
   - caption: Help + Support
     chapters:
     - file: start/office-hours

@@ -5,6 +5,31 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+
+## Week 15
+
+```{dropdown} Day 15A: Monday, December 4th
+No prep problem for today.
+
+```
+
+
+
+```{dropdown} Day 15B: Wednesday, December 6th
+Posted aftert Monday's class.
+
+
+```
+
+
+```{dropdown} Day 15C: Friday, December 8th
+Posted aftert Wednesday's class.
+
+```
+
+
+
+
 ## Week 14
 
 ```{dropdown} Day 14A: Monday, November 27th
