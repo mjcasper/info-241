@@ -10,16 +10,17 @@ You will be submitting your individual homework notebooks for all of VF (Vector 
 
 | Due Date | WeBWorK | Notebook |
 |----------|---------|----------|
-| Nov 29th at 11:59pm ET | [VF1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF1) | No HW Notebook  |
-| Nov 29th at 11:59pm ET | [VF2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF2) | No HW Notebook  |
-| Nov 29th at 11:59pm ET | [VF3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF3) | #3  |
-| Nov 29th at 11:59pm ET | [VF4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF4) | #3  |
-| Nov 29th at 11:59pm ET | [VF5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF5) | #1, 2  |
-| Nov 29th at 11:59pm ET | [VF6 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF6) | #2, 3  |
-| Dec 6th at 11:59pm ET | [LI1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_LI1) | #2, 3, 5  |
-| Dec 6th at 11:59pm ET | [LI2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_LI2) | #5, 6  |
-| Dec 6th at 11:59pm ET | [LI3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_LI3) | #1  |
-| Dec 6th at 11:59pm ET | [LI4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_LI4) | #1  |
+| Dec 11th at 11:59pm ET | [LI1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_LI1) | #2, 3, 5  |
+| Dec 11th at 11:59pm ET | [LI2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_LI2) | #5, 6  |
+| Dec 11th at 11:59pm ET | [LI3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_LI3) | #1  |
+| Dec 11th at 11:59pm ET | [LI4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_LI4) | #1  |
+| Dec 11th at 11:59pm ET | [LI5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_LI5) | #2, 3  |
+| Not graded | [SI1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SI1) | not graded  |
+| Not graded  | [SI2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SI2) | not graded  |
+| Not graded  | [SI3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SI3) | not graded  |
+| Not graded  | [SI4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SI4) | not graded  |
+| Not graded  | [SI5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SI5) | not graded  |
+| Not graded  | [SI6 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_SI6) | not graded  |
 
 
 ## Retired Sets
@@ -56,6 +57,13 @@ You will be submitting your individual homework notebooks for all of VF (Vector 
 | Nov 15th at 11:59pm ET | [TI2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_TI2) | #3, 4, 5  |
 | Nov 15th at 11:59pm ET | [TI3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_TI3) | #3, 4  |
 | Nov 15th at 11:59pm ET | [TI4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_TI4) | #5, 6, 7  |
+| Nov 29th at 11:59pm ET | [VF1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF1) | No HW Notebook  |
+| Nov 29th at 11:59pm ET | [VF2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF2) | No HW Notebook  |
+| Nov 29th at 11:59pm ET | [VF3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF3) | #3  |
+| Nov 29th at 11:59pm ET | [VF4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF4) | #3  |
+| Nov 29th at 11:59pm ET | [VF5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF5) | #1, 2  |
+| Nov 29th at 11:59pm ET | [VF6 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-241-Casper/Learning_Outcome_VF6) | #2, 3  |
+
 
 
 ```{admonition} Homework Notebook
