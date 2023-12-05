@@ -16,7 +16,7 @@ No prep problem for today.
 
 
 ```{dropdown} Day 15B: Wednesday, December 6th
-Posted aftert Monday's class.
+No prep problem for today.
 
 
 ```
