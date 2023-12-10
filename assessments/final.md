@@ -32,7 +32,7 @@ Final Exam
     - 1 question from O1-O4
     - 0 questions from DI1-DI3 (although double integrals will still show up in some form with Green's Theorem and Surface Integrals)
     - 1 question from TI1-TI4
-    - 0 questions from V1-V6 (although some of these topics are indirectly tested with line and surface integrals)
+    - 0 questions from VF1-VF6 (although some of these topics are indirectly tested with line and surface integrals)
 
 - **Number of Questions:** 13 problems.
     - These will be similar in format to the Checkpoint Exam and previous Midterm Exam questions.
